@@ -61,7 +61,7 @@ int main(){
                         }
                         else if (p==2){
                             printf("\nPizza Stocks for today are :");
-                            printf("\n      a.Cheese floor pizza - %d\n      b.Cheesy tomato pizza - %d\n      c.Veggie Crunch pizza - %d\n      d.Fairy Fun pizza - %d\n      e.Master moon pizza - %d\n      f.Auriferous gold pizza - %d",a,b,c,d,e,f);
+                            printf("\n      a.Cheese floor pizza Large Packs - %d Small Packs - %d\n      b.Cheesy tomato pizza - %d Small Packs - %d\n      c.Veggie Crunch pizza - %d Small Packs - %d\n      d.Fairy Fun pizza - %d Small Packs - %d\n      e.Master moon pizza - %d Small Packs - %d\n      f.Auriferous gold pizza - %d Small Packs - %d",a,g,b,h,c,i,d,j,e,k,f,l);
                         }
                         else if (p==3){
                             
